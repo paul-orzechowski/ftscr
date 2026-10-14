@@ -95,9 +95,9 @@ evidence, a public GitHub repository and a passing generated-data CI artifact.
 - [x] Run checks in a clean checkout. Verify standalone generation using only
   `dist/`, `fixtures/` and `package.json`, with no `node_modules` at runtime.
 - [x] Record real results and hashes in `docs/verification.md`; finish local commits.
-- [ ] Create the public `paul-orzechowski/ftscr` repository and push it.
-- [ ] Verify hosted CI and compare its JSON artifact with local output.
-- [ ] Confirm public visibility, a clean working tree and unchanged reference repo.
+- [x] Create the public `paul-orzechowski/ftscr` repository and push it.
+- [x] Verify hosted CI and compare its JSON artifact with local output.
+- [x] Confirm public visibility, a clean working tree and unchanged reference repo.
 
 ## Scope decisions
 

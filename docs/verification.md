@@ -102,3 +102,9 @@ The [CI workflow](../.github/workflows/ci.yml) installs dependencies, runs the
 checks on Node 24/Ubuntu and generates `matches.json`. Actual execution status and
 the downloadable `ftscr-paris-2024` artifact are available in
 [GitHub Actions](https://github.com/paul-orzechowski/ftscr/actions/workflows/ci.yml).
+
+[Run 38570403738](https://github.com/paul-orzechowski/ftscr/actions/runs/38570403738)
+passed on submission revision `c123c91`: typecheck, lint, build and all **34 tests**.
+Its downloaded `matches.json` artifact was byte-identical to the local output,
+with SHA-256 `5aa102bceeaae242de2d35f03ce2683f7f5459a4667bab300fb58dbf2c45c234`.
+Public repository visibility and the `main` default branch were verified.
