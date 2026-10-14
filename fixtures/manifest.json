@@ -1,0 +1,300 @@
+{
+  "retrievedAt": "2026-10-14T12:48:18.279Z",
+  "source": "Official Paris 2024 website JSON API",
+  "schedulePage": "https://stacy.olympics.com/en/paris-2024/competition-schedule",
+  "responses": [
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/GLO_EventUnits~comp=OG2024~disc=FBL~lang=ENG.json",
+      "sha256": "6084989d114cad52a193efaca57599187cf865cbf0e634e9132bb17c3e5a3020"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_DaysByDiscipline~comp=OG2024~disc=FBL~lang=ENG.json",
+      "sha256": "5d481613b27c858c7d795c12ccd9938b6363d4aa4829a686486906159597b2a6"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-24.json",
+      "sha256": "5b273ec0a92fa1cf42eb1dfc28c63736f945f20a5a67275b4ac681643c7bbbef"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-25.json",
+      "sha256": "6c415021aad11632e342b5fb0b969ecb29ba399dcc7fcb515ec7d56563254428"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-27.json",
+      "sha256": "b60f0b7fe23a86d39cb075cac9832e76c0a343b7a9becfe315d6af40174645df"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-28.json",
+      "sha256": "62bb6acd81d8e74dd343b92c2dde51b59b06dbeaa1515ff638a4e511b5d82803"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-30.json",
+      "sha256": "efbc6a60d5b5dbc6b442f283c363509bcdd0a2d35254ed18f56704b21828877f"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-07-31.json",
+      "sha256": "9de79dbc820c829f50a8d07011d2b69c61465129d2b31f7fb5707df9dc597fb0"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-02.json",
+      "sha256": "660a168a0421e07641e809af87e98c2c9c1edf98b1efc351c13faf6666257b9b"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-03.json",
+      "sha256": "20e6ae3f4b6dd45d70f1cc45b1f6886c5ea72ba78d8a57073b1b3216cb8f0c90"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-05.json",
+      "sha256": "bb35c127100bb77094c3967e460fe8a5ac4ff5686e92d79be0b2599f99f2d8f6"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-06.json",
+      "sha256": "204c2ebb3443a77383a3a89ea6274faa8b74baee76922539c46bd75e8ec07791"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-08.json",
+      "sha256": "340f3f602dc111905ac3ea83583dd29d73b1073040d83d544cf5750b595c31f1"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-09.json",
+      "sha256": "2134c8c113c8bb137675ab3a1d7b8b682e042e2233ec62af3266eb95fdd97c17"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/SCH_ByDisciplineH2H~comp=OG2024~disc=FBL~lang=ENG~date=2024-08-10.json",
+      "sha256": "95f88f5acf77fb2b086a4a3a1a7ca73d688356c855623b058eef6a51eb3e681b"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------FNL-000100--~lang=ENG.json",
+      "sha256": "cc91b23abb6e4f182eb4c807b276627664b99d1a4db42dd67259ef530fc0a9a5"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------FNL-000200--~lang=ENG.json",
+      "sha256": "c29a7e9674b56699511b043d4a6f056b755a6be125d304e5cc52d10fa0442ffc"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000100--~lang=ENG.json",
+      "sha256": "f5b4081928c0f6b642bcc8b633dba6490f9f94e71ec806f03eb962a175d3176b"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000200--~lang=ENG.json",
+      "sha256": "6f3ef089240331b96c47ce8990f1aea205f421a55593193d4e49558a2e4b255f"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000300--~lang=ENG.json",
+      "sha256": "4d8aa0502129690ba75dd20dbb8a099f91a5e7b7087e5f27303f4e3d2e1cb27c"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000400--~lang=ENG.json",
+      "sha256": "2b851320ea032a5226852f9d75df4a04f27c4b0d24d9f7b4313a8c84ee65ffcc"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000500--~lang=ENG.json",
+      "sha256": "996149a1a6f4c70acf0626e4eab4c8bce4b4ed64a0daa029e06b764ba144a222"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPA-000600--~lang=ENG.json",
+      "sha256": "d1c1f81cf65997d628e6f78bb68ee38be00b0a7f57679c2b18557d945c287937"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000100--~lang=ENG.json",
+      "sha256": "9b88b893b2fe3663d871248034f791826a0bdab5b6d76da60bc985c135a10c87"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000200--~lang=ENG.json",
+      "sha256": "67b2d6ba60cd6b04ee6878b4ee39b48cee92a66efd5cb0ab2b5ad647c2e3c5c9"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000300--~lang=ENG.json",
+      "sha256": "3e19114b3d7be2faecbfaebd70ff842290ab9bb63f2f8dfe7c649759c64d64a7"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000400--~lang=ENG.json",
+      "sha256": "af5e7863ae5c10841f4d9ebb0b2b97bbeefd011585a66fc39fc13cadd47840dd"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000500--~lang=ENG.json",
+      "sha256": "57bfb14e944323f23c1e02008d7919af66f7484303cdd3cd1117a498941d822e"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPB-000600--~lang=ENG.json",
+      "sha256": "289fc2be3727c3f4db93359cce4ce5672649d8b9d9f5e1445ae1bc9149914bcc"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000100--~lang=ENG.json",
+      "sha256": "d58190c0e1bbc09afea6fa48540c31c7191f282d372b61a67ce60d56cef97633"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000200--~lang=ENG.json",
+      "sha256": "da8f1f328b57928e5cf3b6d1a881523bebfb7e36845bc71bd725b1cb78d1b598"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000300--~lang=ENG.json",
+      "sha256": "c8348a5da1a387856e05ddb6f94d1a8f42f4ace0cc28f45da18909c1ca6bcc12"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000400--~lang=ENG.json",
+      "sha256": "56867231c69a3889a1c44cc4d6a3d1d07b07f92d8e3ad667da269c71187f3942"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000500--~lang=ENG.json",
+      "sha256": "645e8050e9776883d5a11483cbbedcba92d84ac0b4dfabda91698fdf2a21c48c"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPC-000600--~lang=ENG.json",
+      "sha256": "0a0dee1d27f4c9a817741a25bd460abd2f6b50f69e8cdf90271320e0ec1b00a4"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000100--~lang=ENG.json",
+      "sha256": "4c66d390072b28e6f6abb63fd46d5930ea97c937a9b9dbad9115126a5c539d65"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000200--~lang=ENG.json",
+      "sha256": "214483ad78e41a0d46b4d7214c4b1a0e5befa492fe3fddb2a1ea17d921cac77a"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000300--~lang=ENG.json",
+      "sha256": "e45890eee5116f0889c6cca911247210422c8b70adc09853ee183adb7d55384e"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000400--~lang=ENG.json",
+      "sha256": "5fb980272d42b55824de9e3491ac3b7ed5a11132c126099cb2c881e84b55c20f"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000500--~lang=ENG.json",
+      "sha256": "5fe3b876e5b850e6524f8c1fef7221add4125d290dc8e623eba3d9495d54c67f"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------GPD-000600--~lang=ENG.json",
+      "sha256": "68dbe67caebf13dde9a48e21e284ee371e2d3a523a3ed3d2d59e6d575845f703"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------QFNL000100--~lang=ENG.json",
+      "sha256": "39d3dae1f74a83604c866e116cb61946110457c19b71662ec829d21c4d0d3ca7"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------QFNL000200--~lang=ENG.json",
+      "sha256": "613027cb3c1f7938a61181e4945fab1745a448ede83d75f702a62abd868477ae"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------QFNL000300--~lang=ENG.json",
+      "sha256": "b06ea34976de9f22723716125b8691a77b257aca27663f6e53479eb5fb6d660a"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------QFNL000400--~lang=ENG.json",
+      "sha256": "b3a4e962cacbb6c3e2e899ec04111ad5ebf4d65f3a5b90ee91edb3e77e68853f"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------SFNL000100--~lang=ENG.json",
+      "sha256": "17b678375e4d2bdae650bcb7f19352efdd44671549aa218a1b0f40611eb7a520"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLMTEAM11------------SFNL000200--~lang=ENG.json",
+      "sha256": "ae4e22c8080b272db8cb459c8d220cf5ad34982f7bdfadf601d1b51df30e7262"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------FNL-000100--~lang=ENG.json",
+      "sha256": "276508cd5c9ef0e56282639d82c2fd2c58d8c7d76e1a7b1a01139ba7b9e78caf"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------FNL-000200--~lang=ENG.json",
+      "sha256": "eda632520a7e7e829ce8ac948fd37a3fdb4d5ef07c9a54510f11b392107d2085"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000100--~lang=ENG.json",
+      "sha256": "da21825cb06c26775cd3bc5fb4a084612bbff937d9a00a4c099def641735e558"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000200--~lang=ENG.json",
+      "sha256": "676766d65b97ead9ef919f134d98e40e5b8af8d6bc9275ee3290a9998fce82de"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000300--~lang=ENG.json",
+      "sha256": "e3ecbdd6e731c3472048d792026ef370dfa096a795554d883c2d598103144613"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000400--~lang=ENG.json",
+      "sha256": "90f2dfc898ceed9dc19c871e8186516b67845c084fc354df54f86f6b5a879f8a"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000500--~lang=ENG.json",
+      "sha256": "702940194028b966875ccd8c0c83c7c803556a3c070d2a6e96786a2addc129dc"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPA-000600--~lang=ENG.json",
+      "sha256": "871051a7bd6581dbad6854a15a7a43cec746ad4ae3888de2e33b37dee1e42d44"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000100--~lang=ENG.json",
+      "sha256": "90620a3819cebe362340727982ddda08f4fc74f6b799e9d9728f32b95f7caa10"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000200--~lang=ENG.json",
+      "sha256": "c6c73ad149f98760b74b731d0381e031828009396368ae3f2bc78c26effa57eb"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000300--~lang=ENG.json",
+      "sha256": "53119b0687369f0746411e1b2a7a95828d579615735cdd0293fe7ae8696493c3"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000400--~lang=ENG.json",
+      "sha256": "e1eaebbfbd8e5f670ed74e2bd142eab57e823567f6441904e66ff8ad5c0d72d0"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000500--~lang=ENG.json",
+      "sha256": "46f8f148aa2bdf1371fd2f005c1f1803704784b20db52c36e3fc7efe48bbcd1d"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPB-000600--~lang=ENG.json",
+      "sha256": "a65a0f8a00cdf4cd3f8cf2fc24b4d937241462b58e4d68960ba05986a87ec311"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000100--~lang=ENG.json",
+      "sha256": "34b8b8d7c56e0aff20fbe65750deb60ac71396ed6ea4dc98028861a3c7ccd9d3"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000200--~lang=ENG.json",
+      "sha256": "285c8899847f3a7e40aec8ec112557fda659f4a5dee3dbf148f4d4f2990769e8"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000300--~lang=ENG.json",
+      "sha256": "05c180f4c45070e8812a96a4ed1d911841397a261de138320f33641baf527d28"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000400--~lang=ENG.json",
+      "sha256": "d701b4e6a3e14dbe5dcc5e2f71c20b1387d78f98b01716df0d4b2dad329e5ed1"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000500--~lang=ENG.json",
+      "sha256": "d22f7b6a4a08fd69ca5a0565e2af9503092718fcb5f83d502057ebe61276e535"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------GPC-000600--~lang=ENG.json",
+      "sha256": "ff08303e45857a2c5fa6049c2b13a4b02e0d79ff313a01a0a7e011a3c96c1f6a"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------QFNL000100--~lang=ENG.json",
+      "sha256": "ceb71226641c96d33a860bf37e8927c3b33010479aa3abd36f4eae0194d2aa7d"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------QFNL000200--~lang=ENG.json",
+      "sha256": "47b970fecde3efcdb75e4437301824ed7defb7cf48507df9ad0d3ee5d9470865"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------QFNL000300--~lang=ENG.json",
+      "sha256": "8f394a7bdbecb606906b4cb7451632524bcadb0b56d4e6488ac01a6bfacf7c03"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------QFNL000400--~lang=ENG.json",
+      "sha256": "feff77df05a631665a5a9baf80ba6068c57ea043fcd0405212f4e8f239251d8e"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------SFNL000100--~lang=ENG.json",
+      "sha256": "d973264c4f2ddfeabe692f245462ae16728310d861e6f709f4aaf329bb191cb6"
+    },
+    {
+      "url": "https://stacy.olympics.com/OG2024/data/RES_ByRSC_H2H~comp=OG2024~disc=FBL~rscResult=FBLWTEAM11------------SFNL000200--~lang=ENG.json",
+      "sha256": "24eb2bcb0ec1734b5988972542409d53e413b19dbf8e08bbed7df3e96232c122"
+    }
+  ],
+  "snapshotSha256": "13448525ee47a228253088b49efac050b786c7bdc98b10b918fd402f78f2af9e"
+}

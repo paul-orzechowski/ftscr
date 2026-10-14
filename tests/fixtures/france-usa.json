@@ -1,0 +1,248 @@
+{
+  "competition": {
+    "name": "Olympic Games Men",
+    "season": "2024",
+    "round": "Group A"
+  },
+  "venue": {
+    "name": "Marseille Stadium",
+    "city": "Marseille"
+  },
+  "kickoff": "2024-07-24T21:00:00+02:00",
+  "status": "FT",
+  "teams": {
+    "home": "France",
+    "away": "United States of America"
+  },
+  "score": {
+    "home": 3,
+    "away": 0,
+    "halfTime": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "scorers": [
+    {
+      "team": "France",
+      "player": "LACAZETTE Alexandre",
+      "minute": 61,
+      "assist": "OLISE Michael",
+      "type": null
+    },
+    {
+      "team": "France",
+      "player": "OLISE Michael",
+      "minute": 69,
+      "assist": "LACAZETTE Alexandre",
+      "type": null
+    },
+    {
+      "team": "France",
+      "player": "BADE Loic",
+      "minute": 85,
+      "assist": "CHOTARD Joris",
+      "type": null
+    }
+  ],
+  "lineups": {
+    "home": {
+      "team": "France",
+      "formation": "4-2-3-1",
+      "coach": "HENRY Thierry",
+      "startingXI": [
+        {
+          "name": "LUKEBA Castello",
+          "number": 2,
+          "position": "DF"
+        },
+        {
+          "name": "TRUFFERT Adrien",
+          "number": 3,
+          "position": "DF"
+        },
+        {
+          "name": "BADE Loic",
+          "number": 4,
+          "position": "DF"
+        },
+        {
+          "name": "SILDILLIA Kiliann",
+          "number": 5,
+          "position": "DF"
+        },
+        {
+          "name": "KONE Manu",
+          "number": 6,
+          "position": "MF"
+        },
+        {
+          "name": "OLISE Michael",
+          "number": 7,
+          "position": "FW"
+        },
+        {
+          "name": "LACAZETTE Alexandre",
+          "number": 10,
+          "position": "FW"
+        },
+        {
+          "name": "MILLOT Enzo",
+          "number": 12,
+          "position": "MF"
+        },
+        {
+          "name": "CHOTARD Joris",
+          "number": 13,
+          "position": "MF"
+        },
+        {
+          "name": "MATETA Jean-Philippe",
+          "number": 14,
+          "position": "FW"
+        },
+        {
+          "name": "RESTES Guillaume",
+          "number": 16,
+          "position": "GK"
+        }
+      ],
+      "bench": [
+        {
+          "name": "NKAMBADIO Obed",
+          "number": 1,
+          "position": "GK"
+        },
+        {
+          "name": "AKLIOUCHE Maghnes",
+          "number": 8,
+          "position": "MF"
+        },
+        {
+          "name": "KALIMUENDO Arnaud",
+          "number": 9,
+          "position": "FW"
+        },
+        {
+          "name": "DOUE Desire",
+          "number": 11,
+          "position": "MF"
+        },
+        {
+          "name": "LOCKO Bradley",
+          "number": 15,
+          "position": "DF"
+        },
+        {
+          "name": "MAGASSA Soungoutou",
+          "number": 17,
+          "position": "DF"
+        },
+        {
+          "name": "CHERKI Rayan",
+          "number": 18,
+          "position": "MF"
+        }
+      ]
+    },
+    "away": {
+      "team": "United States of America",
+      "formation": "4-2-3-1",
+      "coach": "MITROVIC Marko",
+      "startingXI": [
+        {
+          "name": "SCHULTE Patrick",
+          "number": 1,
+          "position": "GK"
+        },
+        {
+          "name": "HARRIEL Nathan",
+          "number": 2,
+          "position": "DF"
+        },
+        {
+          "name": "ZIMMERMAN Walker",
+          "number": 3,
+          "position": "DF"
+        },
+        {
+          "name": "TOLKIN John",
+          "number": 5,
+          "position": "DF"
+        },
+        {
+          "name": "BUSIO Gianluca",
+          "number": 6,
+          "position": "MF"
+        },
+        {
+          "name": "PAREDES Kevin",
+          "number": 7,
+          "position": "FW"
+        },
+        {
+          "name": "TESSMANN Tanner",
+          "number": 8,
+          "position": "MF"
+        },
+        {
+          "name": "AARONSON Paxten",
+          "number": 11,
+          "position": "FW"
+        },
+        {
+          "name": "ROBINSON Miles",
+          "number": 12,
+          "position": "DF"
+        },
+        {
+          "name": "McGUIRE Duncan",
+          "number": 13,
+          "position": "FW"
+        },
+        {
+          "name": "MIHAILOVIC Djordje",
+          "number": 14,
+          "position": "MF"
+        }
+      ],
+      "bench": [
+        {
+          "name": "DIETZ Maximilian",
+          "number": 4,
+          "position": "DF"
+        },
+        {
+          "name": "YOW Griffin",
+          "number": 9,
+          "position": "FW"
+        },
+        {
+          "name": "BOOTH Taylor",
+          "number": 10,
+          "position": "FW"
+        },
+        {
+          "name": "CREMASCHI Benjamin",
+          "number": 15,
+          "position": "MF"
+        },
+        {
+          "name": "McGLYNN Jack",
+          "number": 16,
+          "position": "MF"
+        },
+        {
+          "name": "WILEY Caleb",
+          "number": 17,
+          "position": "DF"
+        },
+        {
+          "name": "SLONINA Gabriel",
+          "number": 18,
+          "position": "GK"
+        }
+      ]
+    }
+  }
+}

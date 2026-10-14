@@ -58,14 +58,14 @@ country pair. Unknown facts stay `null`; added time is represented as `"90+3"`.
 **Interface:** consumes the existing API-only implementation and snapshot;
 produces the same `generate(source, selection): string` contract and CLI commands.
 
-- [ ] Copy only the listed source, tests, fixtures and configuration into this
+- [x] Copy only the listed source, tests, fixtures and configuration into this
   separate repository; retain original assignment/example without modifications.
-- [ ] Rename the package and help title to `ftscr`; update CI/artifact labels.
-- [ ] Apply consistent formatting to source and tests without new dependencies.
-- [ ] Run `npm ci && npm run check`. Expected: typecheck, lint and 34 tests pass.
-- [ ] Generate all matches. Expected: 58 matches; SHA-256
+- [x] Rename the package and help title to `ftscr`; update CI/artifact labels.
+- [x] Apply consistent formatting to source and tests without new dependencies.
+- [x] Run `npm ci && npm run check`. Expected: typecheck, lint and 34 tests pass.
+- [x] Generate all matches. Expected: 58 matches; SHA-256
   `5aa102bceeaae242de2d35f03ce2683f7f5459a4667bab300fb58dbf2c45c234`.
-- [ ] Commit the standalone application.
+- [x] Commit the standalone application.
 
 ### Task 2: Submission documentation
 
