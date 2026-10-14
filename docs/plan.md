@@ -28,7 +28,7 @@ country pair. Unknown facts stay `null`; added time is represented as `"90+3"`.
 - `tests/`: retain the existing regression tests and independent golden response.
 - `fixtures/`: preserve the official snapshot and original retrieval manifest.
 - `README.md`: evaluator-facing installation, usage, distribution, assumptions
-  and discussion points. No interview preparation notes or conversation history.
+  and discussion points. Keep only technical submission documentation.
 - `AGENTS.md`: portable instructions for plan → implementation → validation.
 - `docs/plan.md`: this plan. `docs/verification.md`: actual verification evidence.
 - `.github/workflows/ci.yml`: reproducible checks and downloadable JSON artifact.
@@ -74,14 +74,14 @@ produces the same `generate(source, selection): string` contract and CLI command
 **Interface:** consumes the working commands from Task 1; produces instructions
 an evaluator can follow without access to the original workspace.
 
-- [ ] Write installation, three selection modes, explicit refresh and distribution
+- [x] Write installation, three selection modes, explicit refresh and distribution
   instructions. Preserve assumptions and known source gaps in the README.
-- [ ] Explain source provenance, architecture, tests and AI-assisted workflow.
+- [x] Explain source provenance, architecture, tests and AI-assisted workflow.
   Link the original assignment, example, plan and verification record.
-- [ ] Run documented selection commands. Expected: France 10 matches, France men
+- [x] Run documented selection commands. Expected: France 10 matches, France men
   6, France–Spain men 1, USA–Germany women ambiguous without a date and 1 match
   with `--date 2024-08-06`. Reversed country-pair output must be byte-identical.
-- [ ] Inspect documentation links and tracked contents; commit documentation.
+- [x] Inspect documentation links and tracked contents; commit documentation.
 
 ### Task 3: Validation and publication
 
