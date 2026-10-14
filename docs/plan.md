@@ -90,11 +90,11 @@ an evaluator can follow without access to the original workspace.
 **Interface:** consumes the completed application and docs; produces review
 evidence, a public GitHub repository and a passing generated-data CI artifact.
 
-- [ ] Have an independent reviewer examine requirements, code, documentation,
+- [x] Have an independent reviewer examine requirements, code, documentation,
   source gaps and public-readiness. Reproduce and fix any substantive issue.
-- [ ] Run checks in a clean checkout. Verify standalone generation using only
+- [x] Run checks in a clean checkout. Verify standalone generation using only
   `dist/`, `fixtures/` and `package.json`, with no `node_modules` at runtime.
-- [ ] Record real results and hashes in `docs/verification.md`; finish local commits.
+- [x] Record real results and hashes in `docs/verification.md`; finish local commits.
 - [ ] Create the public `paul-orzechowski/ftscr` repository and push it.
 - [ ] Verify hosted CI and compare its JSON artifact with local output.
 - [ ] Confirm public visibility, a clean working tree and unchanged reference repo.

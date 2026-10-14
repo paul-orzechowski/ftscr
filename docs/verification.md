@@ -11,8 +11,8 @@ The committed manifest records the original retrieval at
 this repository. The original assignment, example and golden match were also
 retained from the API-only implementation.
 
-A fresh live `fetch` was run during submission validation. It downloaded and
-validated all **73 official API responses**:
+A fresh live `fetch` completed at `2026-10-14T13:12:12.816Z` during submission
+validation. It downloaded and validated all **73 official API responses**:
 
 - One event-unit index: 93 units, including 58 scheduled football matches.
 - One football-date index: 13 dates.
@@ -33,6 +33,7 @@ records, not a browser session capture or credentials.
 | --- | --- |
 | `npm ci` | Clean dependency installation succeeded; npm reported 0 vulnerabilities at the time of the check. |
 | `npm run check` | TypeScript, ESLint and build passed; **34 tests passed**, 0 failed or skipped. |
+| Clean checkout | Repeated `npm ci` and `npm run check` in a separate checkout; all 34 tests passed and generated output matched the recorded checksum. |
 | `node dist/cli.js generate --output output/matches.json` | 58 match bodies; expected stderr warning about two unavailable goal minutes. |
 | `generate --team France` | 10 matches: 6 men's and 4 women's. |
 | `generate --team FRA --gender men` | 6 matches. |
@@ -82,6 +83,18 @@ documented in the [README assumptions](../README.md#assumptions--discussion-poin
 No live comparison with a target FootyScores API is claimed: its URL and schema
 were not supplied. Offline correctness does not guarantee future availability of
 the Olympic website API.
+
+## Independent review
+
+A separate AI reviewer examined revision `92e5bd1` without modifying the checkout.
+It read all source, tests, configuration and submission documentation, and found
+no actionable critical, important or minor issues.
+
+The reviewer independently installed and checked a clean Git export: all 34 tests,
+typecheck, lint and build passed. It also exercised all selection modes, reversed
+and ambiguous pairs, standalone generation without dependencies, deterministic
+output, manifest integrity and the USA–Guinea scorer totals. This is bounded
+review evidence, not a claim that every possible source input has been audited.
 
 ## Hosted checks
 
